@@ -9,7 +9,7 @@ recipe:
   prep: 40 minutes
   cook: 35 minutes
   ingredients_markdown: |-
-    * 1 recipe Béchamel Sauce
+    * 1 recipe Béchamel Sauce (see above)
     * 1 lb pasta; macaroni, shells, cavatappi, fusilli, or similar shape
     * 1 to 1 1/2 lbs grated cheese, of any assortment.
       My signature blend is 1/3 cheddar, 1/3 gruyère, 1/3 bleu.
@@ -30,3 +30,5 @@ recipe:
 ---
 This recipe won 4th place out of 8 in my friends' Mac and Cheese contest!
 It may not sound that impressive, but I'm friends with a lot of really good cooks.
+
+Like many macaroni and cheese recipes, this one is based on a [Béchamel Sauce]({% post_url 2020-01-07-bechamel-sauce %}).
