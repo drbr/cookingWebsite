@@ -5,9 +5,11 @@ title: Home
 	{% for post in paginator.posts %}
 		<article class="post">
 			{% include post-heading.html post=post %}
-			<div class="image">
-				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
-			</div>
+			{% if post.featured_image %}
+				<div class="image">
+					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+				</div>
+			{% endif %}
 
 			{{ post.excerpt }}
 
