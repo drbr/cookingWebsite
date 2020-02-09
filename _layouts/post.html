@@ -3,9 +3,11 @@ layout: default
 ---
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
-	<div class="image">
-		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
-	</div>
+	{% if page.featured_image %}
+		<div class="image">
+			<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+		</div>
+	{% endif %}
 
 	<div class="recipe-body">
 		{{ content }}
@@ -13,8 +15,12 @@ layout: default
 
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+		{% if page.recipe.prep %}
+			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+		{% endif %}
+		{% if page.recipe.cook %}
+			<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+		{% endif %}
 	</ul>
 
 	<div class="recipe-contents">
@@ -33,7 +39,6 @@ layout: default
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
-		<a class="google-plus" href="https://plus.google.com/share?url={{ share_url }}">{% include social-icon.html icon="Google Plus" %}</a>
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
 		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>

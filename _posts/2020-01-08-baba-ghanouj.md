@@ -5,9 +5,9 @@ categories:
   - Appetizer
 featured_image:
 recipe:
-  servings: quite a lot
+  servings: serves 4-6
   prep: 10 minutes
-  cook: 0 minutes
+  cook:
   ingredients_markdown: |-
     * 12 oz grilled eggplant, mashed
     * 1 cup tahini
