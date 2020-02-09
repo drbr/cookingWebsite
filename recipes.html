@@ -11,9 +11,15 @@ image_view: true
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
-				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
-				</div>
+				{% if recipe.featured_image %}
+					<div class="recipe with-photo" style="background-image: url('{{ recipe.featured_image }}')">
+						<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+					</div>
+				{% else %}
+					<div class="recipe no-photo">
+						<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+					</div>
+				{% endif %}
 			{% endfor %}
 		</div>
 	{% endfor %}
