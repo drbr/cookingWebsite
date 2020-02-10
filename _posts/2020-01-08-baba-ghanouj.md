@@ -1,6 +1,7 @@
 ---
 date: 2020-01-08
 title: Baba Ghanouj
+author: Andrew Brandon
 categories:
   - Appetizer
 featured_image:

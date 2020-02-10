@@ -1,11 +1,17 @@
 .post {
 	h1 a {
 		color: #000;
+		font-weight: bold;
 		text-decoration: none;
 
 		&:hover {
 			text-decoration: underline;
 		}
+	}
+	h3 {
+		color: #000;
+		font-weight: bold;
+		margin: 0 0 6px 0;
 	}
 	time {
 		padding: 0 0 20px 0;
