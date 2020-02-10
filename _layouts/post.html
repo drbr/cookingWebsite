@@ -13,7 +13,14 @@ layout: default
 		{{ content }}
 	</div>
 
-	<ul id="recipe" class="recipe-overview">
+	<!--
+		The invisible anchor div is positioned slightly higher than the actual recipe start
+		so that jumping to the recipe will scroll the recipe into view without being superimposed by the top nav bar.
+	-->
+	<div style="position: relative">
+		<div id="recipe" class="take-me-anchor"></div>
+	</div>
+	<ul class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		{% if page.recipe.prep %}
 			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
