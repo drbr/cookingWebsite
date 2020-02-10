@@ -25,8 +25,7 @@ recipe:
     7. If making a Mornay sauce, add the cheese and continue to stir until melted.
     8. Remove from heat and let sit until ready to serve.  
 ---
-A core component of my Macaroni and Cheese, the recipe for this sauce was given to me by
-my brother, Richard Brandon.
+A core component of my Macaroni and Cheese, the recipe for this sauce was given to me by my brother, Richard Brandon.
 
 Richard provides the following note along with his recipe:
 
