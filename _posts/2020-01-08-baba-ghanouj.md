@@ -1,9 +1,9 @@
 ---
-date: 2020-01-08
 title: Baba Ghanouj
 author: Andrew Brandon
 categories:
   - Appetizer
+  - Arabic
 featured_image:
 recipe:
   servings: serves 4-6

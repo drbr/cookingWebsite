@@ -1,5 +1,4 @@
 ---
-date: 2020-01-07
 title: Béchamel Sauce
 author: Richard Brandon
 categories:

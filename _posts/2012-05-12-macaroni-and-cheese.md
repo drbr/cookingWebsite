@@ -1,5 +1,4 @@
 ---
-date: 2020-01-07
 title: Macaroni and Cheese au Gratin
 author: Andrew Brandon
 categories:
@@ -32,4 +31,4 @@ recipe:
 This recipe won 4th place out of 8 in my friends' Mac and Cheese contest!
 That may not sound so impressive, but my friends are really good cooks.
 
-Like many macaroni and cheese recipes, this one is based on a [Béchamel Sauce]({% post_url 2020-01-07-bechamel-sauce %}).
+Like many macaroni and cheese recipes, this one is based on a [Béchamel Sauce]({% post_url 2012-05-12-bechamel-sauce %}).
