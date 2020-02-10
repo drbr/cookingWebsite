@@ -37,6 +37,6 @@ Ali Nazik is a Turkish dish, consisting of grilled spiced meat served over a sav
 
 "Ali Nazik" is a Turkish phrase that means "with gentle hands". The relation of this phrase to the name of the dish is not certain, but one prominent theory is that it refers to the method of making the sauce.
 
-I was introduced to Ali Nazik at [Café Turko](http://www.cafeturko.com/) in Seattle, where it's one of the most popular entrées. This is the result of my attempt to reverse-engineer their recipe and adapt it to a home kitchen. The restaurant serves it with either chicken, lamb, or a spicy roasted veggie mix. I've only figured out the chicken variety; you'll have to go there in person to try the others. The owners and staff are all wonderfully friendly and the food is delicious; you won't regret eating there!
+I was introduced to Ali Nazik at [Café Turko](https://cafe-turko.com/) in Seattle, where it's one of the most popular entrées. This is the result of my attempt to reverse-engineer their recipe and adapt it to a home kitchen. The restaurant serves it with either chicken, lamb, or a spicy roasted veggie mix. I've only figured out the chicken variety; you'll have to go there in person to try the others. The owners and staff are all wonderfully friendly and the food is delicious; you won't regret eating there!
 
 Like with [Baba Ghanouj]({% post_url 2020-01-08-baba-ghanouj %}), canned grilled eggplant can be used instead of grilling a fresh eggplant.
