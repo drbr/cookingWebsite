@@ -25,17 +25,20 @@ body {
 	margin: 0 0 30px 0;
 
 	svg {
-		position: relative;
-		top: 6px;
+		position: absolute;
+		top: -5px;
+		left: 0px;
 	}
 
 	span {
-		margin: 0 18px 0 3px;
+		margin: 0 18px 0 0;
 	}
 
 	li {
-		padding: 0;
+		position: relative;
+		padding: 0 0 0 32px;
 		margin: 0;
+		height: 28px;
 		display: inline-block;
 	}
 }
