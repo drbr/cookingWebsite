@@ -29,9 +29,9 @@ A core component of my Macaroni and Cheese, the recipe for this sauce was given 
 
 Richard provides the following note along with his recipe:
 
-*Also known as white sauce, Béchamel is one of the mother sauces of French cuisine and is also used in many recipes of Italian cuisine.
-According to [Larousse Gastronomique](http://en.wikipedia.org/wiki/Larousse_Gastronomique), the sauce is named after the "marquis de Béchamel".
-Many other sauces can be made by expanding this recipe.
-Grated cheese added brings us a Mornay sauce.
-Cooking shrimp shells in the heated milk offers extra flavor to shrimp pasta.
-Partial chicken or fish stock can be substituted for the milk.*
+> *Also known as white sauce, Béchamel is one of the mother sauces of French cuisine and is also used in many recipes of Italian cuisine.
+> According to [Larousse Gastronomique](http://en.wikipedia.org/wiki/Larousse_Gastronomique), the sauce is named after the "marquis de Béchamel".
+> Many other sauces can be made by expanding this recipe.
+> Grated cheese added brings us a Mornay sauce.
+> Cooking shrimp shells in the heated milk offers extra flavor to shrimp pasta.
+> Partial chicken or fish stock can be substituted for the milk.*
