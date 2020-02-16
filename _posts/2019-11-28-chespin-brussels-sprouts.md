@@ -22,5 +22,5 @@ recipe:
     2. Meanwhile, sauté the apples in the butter until soft. Then, add the fennel seeds and chestnuts and sauté for a few minutes more. Remove from heat and stir in the heavy cream.
     3. Add the brussels sprouts into the apple mixture and combine. Drain excess liquid from the 9×13 baking pan, then move the entire mixture back into the baking pan and bake for another 15-20 minutes, until the brussels sprouts are soft.
 ---
-For those not up to date on the latest video game trends, Chespin is the name of a chestnut-themed Pokémon. I owe this recipe to my friend Nate Buck, enthusiast of video games and gastronomy.
+For those not up to date on the latest video game trends, Chespin is the name of a chestnut-themed Pokémon. I owe this recipe to my friend [Nate Buck](https://twitter.com/Nate_Buck), enthusiast of video games and gastronomy.
 Nate created this recipe using his knowledge of Pokémon along with [The Flavor Bible](https://karenandandrew.com/books/the-flavor-bible/). It was such a big hit at his Pokémon-themed dinner party that I decided to add it to my repertoire as well. I've adjusted the recipe slightly, which is how it's presented here.
