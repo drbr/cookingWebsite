@@ -15,6 +15,13 @@ recipe:
     * 1/2 tsp white pepper
     * 1 tsp ground nutmeg
 
+    *For a gluten-free alternative, the following mixture can be used in place of the flour:*
+    * 2 tsp sorghum flour
+    * 2 tsp white rice flour
+    * 2 tsp potato flour
+    * 1 tsp arrowrooot powder
+    * add potato starch until the total flour mixture weighs 40 grams
+
   directions_markdown: |-
     1. In a medium saucepan, heat the butter over medium-low heat until melted. Add the flour and stir until smooth. This process makes a roux.
     2. Over medium heat, cook until the mixture turns a light, golden sandy color, about 5 minutes.
