@@ -33,12 +33,12 @@ layout: default
 	<div class="recipe-contents">
 		<div class="ingredients">
 			<h2>Ingredients</h2>
-			{{ page.recipe.ingredients_markdown | markdownify }}
+			{{ page.recipe.ingredients_markdown | flatify | markdownify }}
 		</div>
 
 		<div class="directions">
 			<h2>Directions</h2>
-			{{ page.recipe.directions_markdown | markdownify }}
+			{{ page.recipe.directions_markdown | flatify | markdownify }}
 		</div>
 	</div>
 
