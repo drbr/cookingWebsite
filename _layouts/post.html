@@ -21,7 +21,9 @@ layout: default
 		<div id="recipe" class="take-me-anchor"></div>
 	</div>
 	<ul class="recipe-overview">
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+		{% if page.recipe.servings %}
+			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+		{% endif %}
 		{% if page.recipe.prep %}
 			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
 		{% endif %}
