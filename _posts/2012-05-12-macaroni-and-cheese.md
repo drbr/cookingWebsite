@@ -21,11 +21,16 @@ recipe:
        according to package directions, just shy of al dente.
     3. In parallel, make the béchamel sauce.
     4. Once sauce has thickened, stir cheese into sauce until completely melted. This is now a Mornay sauce.
-    5. Drain pasta and transfer to baking dish. Pour Mornay sauce over pasta, add any mix-ins, and combine.
+    5. Drain pasta and add to sauce. Add any mix-ins and combine.
+       Transfer mixture into the baking dish or ramekins.
     6. Sprinkle the top with the breadcrumbs.
-    7. Bake for 30-35 minutes at 350 °F, until the sauce is bubbling up from the sides.
-    8. Finish under the broiler until the top becomes golden brown (<5 minutes). Do not let it burn!
-    9. Let cool before serving. Or not.
+    7. If you want to freeze ramekins for later, stop here.
+       Wrap the ramekins tightly in plastic wrap and put them in the freezer.
+    8. Bake for 30-35 minutes at 350 °F, until the sauce is bubbling up from the sides.
+       If baking previously frozen ramekins, cook for 2 minutes in the microwave before baking,
+       to thaw the insides.
+    9. Finish under the broiler until the top becomes golden brown (<5 minutes). Do not let it burn!
+    10. Let cool before serving. Or not.
 
 ---
 This recipe won 4th place out of 8 in my friends' Mac and Cheese contest!
