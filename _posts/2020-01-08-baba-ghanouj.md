@@ -13,7 +13,7 @@ recipe:
     * 12 oz grilled eggplant, mashed
     * 1 cup tahini
     * 2 cloves garlic, minced or pressed
-    * Juice of 1/2 small lemon
+    * Juice of ½ small lemon
     * Olive oil to taste
     * Salt to taste
   directions_markdown: |-

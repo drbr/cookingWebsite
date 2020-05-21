@@ -12,7 +12,7 @@ recipe:
     * 4 Tbsp flour
     * 4 cups milk
     * 2 tsp salt (use just 1 tsp if making macaroni and cheese)
-    * 1/2 tsp white pepper
+    * ½ tsp white pepper
     * 1 tsp ground nutmeg
 
     *For a gluten-free alternative, the following mixture can be used in place of the flour:*

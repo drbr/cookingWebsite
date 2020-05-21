@@ -9,14 +9,14 @@ recipe:
   prep: 20 minutes
   cook: 60-80 minutes
   ingredients_markdown: |-
-    * 2.5 lbs brussels sprouts, halved or quartered
-    * 1 1/2 tsp salt
-    * 1/2 cup vegetable oil
+    * 2 ½ lbs brussels sprouts, halved or quartered
+    * 1 ½ tsp salt
+    * ½ cup vegetable oil
     * 2 large apples, diced
-    * 1/3 cup butter (approx. 5 Tbsp)
+    * ⅓ cup butter (approx. 5 Tbsp)
     * 1 Tbsp fennel seeds
     * 3 oz chestnuts (approx. 20), shelled, peeled, and diced (packaged pre-roasted chestnuts are fine). Pecans can be used if chestnuts are unavailable
-    * 1/4 cup heavy cream
+    * ¼ cup heavy cream
   directions_markdown: |-
     1. Combine the brussels sprouts, salt, and oil in a 9×13 pan. Roast at 375 °F until fragrant (approx. 45 minutes), stirring partway through.
     2. Meanwhile, sauté the apples in the butter until soft. Then, add the fennel seeds and chestnuts and sauté for a few minutes more. Remove from heat and stir in the heavy cream.

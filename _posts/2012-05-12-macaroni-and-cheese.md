@@ -5,16 +5,16 @@ categories:
   - Entrée
 featured_image: /images/macaroniAndCheeseRamekins.jpg
 recipe:
-  servings: Fills 8 10oz ramekins or one large (9x13) baking dish
+  servings: Fills 8 10oz ramekins or one large (9×13) baking dish
   prep: 40 minutes
   cook: 35 minutes
   ingredients_markdown: |-
     * 1 recipe [Béchamel Sauce]({% post_url 2012-05-12-bechamel-sauce %})
     * 1 lb pasta: macaroni, shells, cavatappi, fusilli, or similar shape
-    * 1 to 1 1/2 lbs grated cheese, of any assortment.
-      My typical blend is 2/3 cheddar, 1/3 bleu.
+    * 1 to 1 ½ lbs grated cheese, of any assortment.
+      My typical blend is ⅔ cheddar, ⅓ bleu.
     * Mix-ins of choice, if desired (for example: meat, diced peppers, etc.)
-    * 1/2 cup Panko breadcrumbs
+    * ½ cup Panko breadcrumbs
   directions_markdown: |-
     1. Preheat oven to 350 °F. Ready the ramekins or a large baking dish.
     2. Start boiling some water to cook the pasta. When water is ready, cook pasta
