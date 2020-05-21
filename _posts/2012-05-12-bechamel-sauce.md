@@ -11,7 +11,7 @@ recipe:
     * 5 Tbsp butter
     * 4 Tbsp flour
     * 4 cups milk
-    * 2 tsp salt
+    * 2 tsp salt (use just 1 tsp if making macaroni and cheese)
     * 1/2 tsp white pepper
     * 1 tsp ground nutmeg
 
@@ -30,7 +30,7 @@ recipe:
     5. Continue stirring for about 10 minutes on medium heat (the sauce will become quite thick).
     6. Season with the salt, pepper, and nutmeg.
     7. If making a Mornay sauce, add the cheese and continue to stir until melted.
-    8. Remove from heat and let sit until ready to serve.  
+    8. Remove from heat and let sit until ready to serve.
 ---
 A core component of my [Macaroni and Cheese]({% post_url 2012-05-12-macaroni-and-cheese %}), the recipe for this sauce was given to me by my brother, Richard Brandon.
 
