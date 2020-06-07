@@ -3,6 +3,7 @@ title: Tahini Sauce
 author: Andrew Brandon
 categories:
   - Sauce
+featured_image: /images/tahiniSauce.jpg
 recipe:
   prep: 5 minutes
   ingredients_markdown: |-
