@@ -13,14 +13,14 @@ recipe:
     * 1 stick (¼ lb.) butter, melted
     * 1 ½ cups whole milk
     * 3 eggs
-    * 2 Tbsp vegetable oil
+    * 4 Tbsp vegetable oil
     * ½ tsp vanilla extract
 
     **Dry ingredients**
     * 1 ½ cups flour
     * 2 Tbsp baking powder
     * 2 Tbsp sugar
-    * 1 ½ tsp salt
+    * 1 tsp salt
 
     **Equipment**
     * Nonstick griddle
