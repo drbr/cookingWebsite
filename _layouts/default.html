@@ -15,6 +15,16 @@
 		{% endif %}
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
 
+		<!-- Google Analytics Global site tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-CV77SK374B"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-CV77SK374B');
+		</script>
+
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 			<script>
 				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
