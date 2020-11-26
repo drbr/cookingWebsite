@@ -1,6 +1,6 @@
 ---
 title: Ali Nazik with Chicken
-author: Andrew Brandon (adapted from Café Turko)
+author: Andrew Brandon (inspired by Café Turko)
 categories:
   - Entrée
   - Middle Eastern
