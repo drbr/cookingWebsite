@@ -8,7 +8,7 @@
 		{% seo %}
 		{% feed_meta %}
 
-		<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">
+		<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans|Martel" rel="stylesheet">
 		<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
 		{% if page.print_stylesheet %}
 			<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
@@ -38,7 +38,7 @@
 		{% include navigation.html %}
 		<header>
 			<a href="{{site.baseurl }}/">
-				<img src="{{ site.baseurl }}/images/sitelogo.png" width="500" alt="logo">
+				<h1 class="site-logo">Pepper and Olive Oil</h1>
 			</a>
 		</header>
 		<div class="container main-content">
@@ -50,6 +50,7 @@
 				<hr>
 				&copy; {{ site.time | date: "%Y" }} Andrew Brandon. All rights reserved.<br/>
 				Site template by <a href="https://github.com/CloudCannon/treat-jekyll-template">CloudCannon</a>.
+				Favicon by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>.
 			</div>
 		</footer>
 	</body>
