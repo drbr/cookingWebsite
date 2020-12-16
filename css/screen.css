@@ -8,6 +8,13 @@ body, input, textarea {
   color: #222;
   -webkit-font-smoothing: antialiased; }
 
+.site-logo {
+  text-align: center;
+  font-family: Martel;
+  font-weight: 700;
+  font-size: 2.5em;
+  color: #4d6127; }
+
 h1 {
   font-size: 1.8em;
   margin: 0;
@@ -22,7 +29,7 @@ time {
 
 header {
   text-align: center;
-  padding: 80px 0 60px 0; }
+  padding: 80px 0 45px 0; }
 
 img {
   max-width: 100%; }
