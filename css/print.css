@@ -15,7 +15,7 @@ body {
   font-family: 'Fira Sans', sans-serif;
   font-size: .8em; }
 
-.sidebar, .sharing, footer, .recipe-body, nav, img, time, .take-me, .cta {
+.sidebar, .sharing, footer, .recipe-body, header, nav, img, time, .take-me, .cta {
   display: none; }
 
 .recipe-overview {
