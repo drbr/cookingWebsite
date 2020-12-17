@@ -14,7 +14,7 @@ h1.site-logo {
   text-align: center;
   font-family: Martel;
   font-weight: 700;
-  font-size: min(8vw, 2.5em);
+  font-size: calc(15px + 3.5vw);
   color: #4d6127;
 }
 
