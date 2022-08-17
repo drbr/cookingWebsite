@@ -1,5 +1,9 @@
 <!-- Meta tags for Facebook -->
 <meta
+  name="og:title"
+  content="{% if page.recipe %}{{ page.title }}{% else %}Pepper and Olive Oil{% endif %}"
+/>
+<meta
   property="og:image"
   content="{% include recipe-image-or-default.html %}"
 />
