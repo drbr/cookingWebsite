@@ -1,5 +1,5 @@
 {% if page.featured_image %}
-  {{ site.baseurl | prepend: site.url | remove_last: "/" }}{{page.featured_image }}
+  {{ site.baseurl | prepend: site.url | remove_last_if_slash }}{{page.featured_image }}
 {% else %}
-  {{ site.baseurl | prepend: site.url | remove_last: "/" }}/images/favicon-medium.png
+  {{ site.baseurl | prepend: site.url | remove_last_if_slash }}/images/favicon-medium.png
 {% endif %}
