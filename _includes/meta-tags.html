@@ -1,0 +1,6 @@
+{% if page.featured_image %}
+<meta
+  property="og:image"
+  content="{{ site.baseurl | prepend: site.url }}{{ page.featured_image }}"
+/>
+{% endif %}
