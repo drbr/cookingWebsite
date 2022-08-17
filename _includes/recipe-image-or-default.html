@@ -1,0 +1,5 @@
+{% if page.featured_image %}
+  {{ site.baseurl | prepend: site.url }}{{page.featured_image }}
+{% else %}
+  {{ site.baseurl | prepend: site.url}}/images/favicon.png
+{% endif %}

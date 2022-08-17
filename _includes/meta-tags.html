@@ -1,6 +1,20 @@
-{% if page.featured_image %}
+<!-- Meta tags for Facebook -->
 <meta
   property="og:image"
-  content="{{ site.baseurl | prepend: site.url }}{{ page.featured_image }}"
+  content="{% include recipe-image-or-default.html %}"
 />
-{% endif %}
+
+<!-- Meta tags for Twitter -->
+<meta
+  name="twitter:card"
+  content="{% if page.featured_image %}summary_large_image{% else %}summary{% endif %}"
+/>
+<meta name="twitter:site" content="@drbr153" />
+<meta
+  name="twitter:title"
+  content="{% if page.recipe %}{{ page.title }}{% else %}Pepper and Olive Oil{% endif %}"
+/>
+<meta
+  name="twitter:image"
+  content="{% include recipe-image-or-default.html %}"
+/>
