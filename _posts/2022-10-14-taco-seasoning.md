@@ -20,7 +20,7 @@ recipe:
     1. Find a spice jar that's slightly bigger than the amount of seasoning you're planning to make.
        It should have a tight-fitting lid. I make a double batch (1 ½ cups) and use a 2-cup jar.
     2. Measure all the ingredients into the jar.
-    3. Screw on the lid and shake the jar until well blended.
+    3. Screw the lid on and shake the jar until well blended.
 ---
 
 Nothing fancy here; this is a good substitute for the stuff in the packet. Make a big batch and keep
