@@ -12,7 +12,7 @@ recipe:
     * 1 recipe [Béchamel Sauce]({% post_url 2012-05-12-bechamel-sauce %})
     * 1 lb pasta: macaroni, shells, cavatappi, fusilli, or similar shape
     * 1 to 1 ½ lbs grated cheese, of any assortment.
-      My typical blend is ⅔ cheddar, ⅓ bleu.
+      I often use ⅓ cheddar, ⅓ gruyère, ⅓ bleu (*not pre-crumbled*).
     * Mix-ins of choice, if desired (for example: meat, diced peppers, etc.)
     * ½ cup Panko breadcrumbs
   directions_markdown: |-
@@ -31,8 +31,8 @@ recipe:
        to thaw the insides.
     9. Finish under the broiler until the top becomes golden brown (<5 minutes). Do not let it burn!
     10. Let cool before serving. Or not.
-
 ---
+
 This recipe won 4th place out of 8 in my friends' Mac and Cheese contest!
 That may not sound so impressive, but my friends are really good cooks.
 
